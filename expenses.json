@@ -1,0 +1,30 @@
+[
+    {
+        "category": "entertainment",
+        "description": "movie",
+        "amount": 200
+    },
+    {
+        "category": "travel",
+        "description": "car 120",
+        "amount": 120
+    },
+    {
+        "date": "28-07-2026",
+        "category": "Bills",
+        "description": "electricity",
+        "amount": 1000
+    },
+    {
+        "date": "28-07-2026",
+        "category": "Transport",
+        "description": "bus",
+        "amount": 80.0
+    },
+    {
+        "date": "28-07-2026",
+        "category": "Other",
+        "description": "travel",
+        "amount": 60.0
+    }
+]
