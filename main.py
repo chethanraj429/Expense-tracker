@@ -8,7 +8,6 @@ from expense_manager import (
 from file_handler import load_expenses
 
 print("Program started")
-
 expenses = load_expenses()
 
 print("Expenses loaded")
@@ -39,4 +38,4 @@ while True:
     elif choose == "5":
         search_by_category(expenses)
     else:
-        print('exit')
+        print('Invalid choice')
